@@ -38,6 +38,6 @@ jobs:
         uses: ad-m/github-push-action@master
         with: #change all the "damianboh"s below to your username
           github_token: ${{ secrets.TOKEN }}          
-          repository: "damianboh/damianboh.github.io"
+          repository: "jduke99/jduke99.github.io"
           branch: "main"          
-          directory: ./damianboh.github.io
+          directory: ./jduke99.github.io
